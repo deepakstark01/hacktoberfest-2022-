@@ -64,7 +64,7 @@ keep in mind that repo has hacktoberfest topic..
 - This year, the first 40,000 participants can earn a T-shirt.
 ---
 
-# :handshake: Our Contributors
+# :handshake: Our Contributors are
 
 <a href="https://github.com/darakhshadeepak/hacktoberfest-2022-/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=darakhshadeepak/hacktoberfest-2022-" />
