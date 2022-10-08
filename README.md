@@ -71,6 +71,4 @@ keep in mind that repo has hacktoberfest topic..
 </a>
 
 ## License
-
-
 To the extent possible under law, Deepak has waived all copyright and related or neighboring rights to this work.
