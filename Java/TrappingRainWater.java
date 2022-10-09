@@ -1,3 +1,4 @@
+//rain water solution
 class Solution {
     public int trap(int[] height) {
         int left = 0, right = height.length - 1;
